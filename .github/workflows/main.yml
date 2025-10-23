@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Autobiography</title>
+    <style>
+        body {
+            font-family: "Poppins", sans-serif;
+            background-color: #f0f4f8;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #1e3d59;
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+        }
+        nav {
+            background-color: #16324f;
+            text-align: center;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            display: inline-block;
+        }
+        nav a:hover {
+            background-color: #f5af19;
+            color: #16324f;
+            border-radius: 5px;
+        }
+        section {
+            padding: 40px;
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            margin-top: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #1e3d59;
+            border-bottom: 2px solid #f5af19;
+            padding-bottom: 5px;
+        }
+        footer {
+            background-color: #1e3d59;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-top: 40px;
+        }
+        img {
+            display: block;
+            margin: 20px auto;
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>My Autobiography</h1>
+        <p>NAJIB C. AMATONDING</p>
+    </header>
+
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#childhood">Childhood</a>
+        <a href="#education">Education</a>
+        <a href="#dreams">Dreams</a>
+    </nav>
+
+    <section id="about">
+        <img src="c:\Users\userPC\Downloads\485417754_1811709719373817_132091336371527321_n.jpg" alt="Your Photo">
+        <h2>About Me</h2>
+        <p>Hello! My name is Najib C. Amatonding. I’m a person who loves learning, creating, and sharing stories about my life and experiences. It all started one thing you should know about me is that I really enjoy learning new things, especially when it comes to numbers and problem-solving. My favorite subject is Math because it challenges my mind and helps me think logically. I like solving equations and figuring out answers then it feels like solving a mystery!
+
+Aside from academics, I also love playing sports. My favorites are badminton, chess, and volleyball. Badminton keeps me active and fast, while chess helps me think strategically. Volleyball, on the other hand, is where I enjoy teamwork the most. Through these games, I’ve learned about focus, patience, and cooperation.
+
+When I’m not studying or playing sports, I like spending time with my friends, listening to music, and exploring new things that make me happy. I believe that balance between studying and having fun is important. I always try to do my best and enjoy every moment whether I’m solving a math problem or hitting the shuttlecock on the court.</p>
+    </section>
+
+    <section id="childhood">
+        <img src="c:\Users\usersPC\Downloads\501426481_4060884277522563_2687626936582507902_n.jpg alt="Your Photo">
+        <h2>My Childhood</h2>
+        <p>I grew up in Lapu, Lapu City, surrounded by family, friends and my relatives. My childhood was filled with memorable moments from playing outdoors to discovering my early interest in hobby playing badminton and indoor activities like chess, damath and sci-dama learned about focus and patience. These experiences taught me valuable lessons about curiosity, kindness, critical thinking, speed and perseverance.</p>
+    </section>
+
+    <section id="education">
+        <h2>My Education</h2>
+        <p>I began my studies at Canjulao Elementary School, Gun-ob High School, Asian Learning Center, and Lapu-Lapu City College where I developed a passion for my subject in math and also playing sports badminton, chess etc. Over the years, I’ve continued to pursue knowledge and self-improvement, always striving to do my best. Education has been a guiding light in my life, helping me achieve my goals and broaden my understanding of the world. It all started one thing you should know about me is that I really enjoy learning new things, especially when it comes to numbers and problem-solving. My favorite subject is Math because it challenges my mind and helps me think logically. I like solving equations and figuring out answers then it feels like solving a mystery!
+
+Aside from academics, I also love playing sports. My favorites are badminton, chess, and volleyball. Badminton keeps me active and fast, while chess helps me think strategically. Volleyball, on the other hand, is where I enjoy teamwork the most. Through these games, I’ve learned about focus, patience, and cooperation.
+
+When I’m not studying or playing sports, I like spending time with my friends, listening to music, and exploring new things that make me happy. I believe that balance between studying and having fun is important. I always try to do my best and enjoy every moment whether I’m solving a math problem or hitting the shuttlecock on the court.</p>
+    </section>
+
+    <section id="dreams">
+        <h2>My Dreams and Goals</h2>
+        <p>Looking forward, my dream is to become a Web Developer. I aspire to make a positive impact in the world by using technology to create meaningful, inclusive, and sustainable digital experiences. I want to build websites and applications that empower people, promote education, and support causes that make a difference in communities. By focusing on accessibility, ethical design, and user-centered development, I aim to ensure that my work benefits everyone, not just a few. Through continuous learning and collaboration, I hope to use my skills to solve real-world problems, inspire others, and contribute to a more connected and compassionate world. With hard work, dedication, and faith, I believe I can turn my dreams into reality.</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Amatonding, Najib C. All rights reserved.</p>
+        Email: <a href="https://profile.google.com/">amatonding.najib@llcc.edu.ph</a> |
+                LinkedIn: <a href="https://www.facebook.com/kahdiwjsbxnias" target="_blank">Ijann Maru</a> |
+                Contact Number: 09602074054
+    </footer>
+
+</body>
+</html>
